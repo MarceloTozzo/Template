@@ -1,0 +1,341 @@
+@media screen and (max-width: 600px){
+
+    body{
+        background-size: 766%;
+        background-position: 23% 0;
+    }
+    .nav-bar{
+        font-size: 2rem;
+        margin-left: 20px;
+    }
+
+    .nav-bar span{
+        font-size: 1rem;
+    }
+
+    .main-1{
+        margin-left: 20px;
+    }
+
+    .layout{
+        font-size: 3rem;
+        font-weight: 500;
+        left: 30px;
+        bottom: 140px;
+    }
+
+    .layout::before{
+        height: 42%;
+        bottom: 195px;
+    }
+
+    .full-container{
+        flex-direction: column;
+        gap: 0;
+        bottom: 100px;
+        left: 8%;
+    }
+
+    .container-box{
+        width: 84%;
+        height: 25vh;
+        margin-top: 25px;
+    }
+
+    .container-box img{
+        width: 21%;
+        bottom: 18px;
+    }
+
+    .container-box h3{
+        font-size: 1rem;
+        bottom: 10px;
+        font-weight: 600;
+    }
+
+    .container-box p{
+        font-size: 1rem;
+        line-height: 40px;
+        padding: 0;
+    }
+
+    .main-2{
+        height: auto;
+    }
+
+    .main-2 h3{
+        font-size: 2.3rem;
+        top: 35px;
+        margin-left: 45px;
+    }
+
+    .full-sector{
+        margin-left: 0;
+        gap: 40px;
+        position: relative;
+        top: 280px;
+        left: 32px;
+    }
+
+    .sector{
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+
+    .sector p{
+        font-size: 1.2rem;
+    }
+
+    .sector img{
+        width: 18%;
+    }
+
+    .number1 span{
+        margin-left: 0;
+    }
+
+    .number2 span{
+        margin-left: 0;
+    }
+
+    .number3 span{
+        margin-left: 0;
+    }
+
+    .img-ball{
+        width: 85%;
+        height: 40vh;
+        left: 8%;
+        bottom: 670px;
+    }
+
+    .main-3{
+        height: 50vh;
+    }
+
+    .sector-h3{
+        font-size: 1.6rem;
+        line-height: 35px;
+    }
+
+    .palette-dark{
+        font-size: 2rem;
+        margin: 0 0 40px 0;
+    }
+
+    .btn-request{
+        font-size: 1.3rem;
+        padding: 25px 50px;
+        letter-spacing: 3px;
+        border-radius: 10px;
+    }
+
+    .main-4{
+        height: 188vh;
+    }
+
+    .sector-main-4{
+        top: 176px;
+        margin-left: 50px;
+    }
+
+    .about-team{
+        font-size: 3rem;
+    }
+
+    .about-team::before{
+        width: 93px;
+        height: 170%;
+        bottom: 155%;
+        right: 69%;
+    }
+    
+    .main-text{
+        font-size: 1rem;
+        padding-right: 10%;
+    }
+
+    .bnt-read{
+        padding: 15px 45px;
+        font-size: 1.3rem;
+        letter-spacing: 3px;
+    }
+
+    .img-group{
+        width: 85%;
+        height: 40vh;
+        left: 5%;
+        top: 15%;
+    }
+
+    .about-team-2{
+        font-size: 1.3rem;
+        letter-spacing: normal;
+        top: 25%;
+        right: 10px;
+        padding: 0 41px;
+        line-height: normal;
+        margin-left: 0;
+    }
+
+    .main-5{
+        height: 134vh;
+    }
+
+    .photo-table{
+        height: 30vh;
+    }
+
+    .our-culture{
+        margin-top: 50px;
+    }
+
+    .our-culture h5{
+        font-size: 1rem;
+        letter-spacing: 3px;
+        line-height: 10px;
+    }
+
+    .our-culture h1{
+        font-size: 2.3rem;
+        line-height: 43px;
+        padding: 0;
+    }
+
+    .our-culture h1::before{
+        width: 105px;
+        height: 19%;
+        top: 106%;
+        right: 38%;
+    }
+
+    .main-6{
+        height: 167vh;
+    }
+
+    .sector-main-6 h1{
+        font-size: 2.5rem;
+        line-height: 40px;
+        padding: 55px 24px;
+        margin-right: 0;
+    }
+
+    .sector-main-6 h1::before {
+        width: 82%;
+        height: 103%;
+        top: 126%;
+        right: 5%;
+    }
+
+    .sector-main-6 h1::after {
+        width: 28%;
+        height: 35%;
+        top: 112%;
+        right: 5%;
+    }
+
+    .fourth-photo{
+        width: 80%;
+        left: 7%;
+        top: 100px;
+    }
+
+    .sector-main-text{
+        padding: 0 50px 0 35px;
+        top: 10%;
+    }
+
+    .sector-main-text p{
+        font-size: 1.2rem;
+        line-height: 40px;
+    }
+
+    .learn-more{
+        padding: 15px 35px;
+        font-size: 1.3rem;
+        letter-spacing: 3px;
+        font-weight: 500;
+    }
+
+    .learn-more::before{
+        width: 90px;
+        height: 169%;
+        top: 220%;
+        right: 150px;
+    }
+
+    .main-7{
+        height: 110vh;
+    }
+
+    .get-in-touch{
+        top: 50px;
+        margin-left: 30px;
+    }
+
+    .get-in-touch h3{
+        font-size: 2.3rem;
+    }
+
+    .get-in-touch h6{
+        font-size: 1.3rem;
+        line-height: 20px;
+        padding-right: 52px;
+    }
+
+    .get-in-touch p{
+        font-size: 1.2rem;
+        padding-right: 32px;
+    }
+
+    .media{
+        top: 84px;
+        left: 8%;
+        margin-left: 0;
+    }
+
+    .media img{
+        width: 8%;
+    }
+
+    .formulary{
+        top: 12%;
+        margin-left: 0;
+    }
+
+    .name{
+        width: 300px;
+    }
+
+    .email{
+        width: 300px;
+    }
+
+    .message{
+        width: 300px;
+    }
+
+    .check-box{
+        top: 12%;
+        margin-right: 17%;
+        margin-left: 0;
+    }
+
+    .bnt-submit{
+        top: 12%;
+        margin-left: 10.9%;
+        width: 310px;
+    }
+
+    footer{
+        height: 37vh;
+    }
+
+    .footer p{
+        font-size: 0.8rem;
+    }
+        
+
+
+}
